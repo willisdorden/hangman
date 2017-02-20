@@ -1,0 +1,46 @@
+body {
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('70artwork.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    text-shadow: 1px 1px 1px #ccc;
+}
+
+h2 {
+    text-align: center;
+}
+
+
+}
+p {
+    text-align: center;
+}
+#playDisplay {
+    text-align: center;
+    font-family: 'Corben', Georgia, Times, serif;
+    text-shadow: 1px 1px 1px #ccc;
+}
+.container-narrow {
+    color: white;
+    font-family: 'Nobile', Helvetica, Arial, sans-serif;
+    text-shadow: 1px 1px 1px #ccc;
+}
+.container {
+    padding: 20px, 20px, 20px, 40px;
+    color: white;
+    font-family: 'Nobile', Helvetica, Arial, sans-serif;
+    text-shadow: 1px 1px 1px #ccc;
+}
+
+}
+#playDiv {}
+.wordBuildDiv {}
+.singer {}
+.stagefright {}
+.hungimg {}
+@media (min-width: 980px)
