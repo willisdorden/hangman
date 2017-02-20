@@ -29,19 +29,25 @@ p {
     color: white;
     font-family: 'Nobile', Helvetica, Arial, sans-serif;
     text-shadow: 1px 1px 1px #ccc;
+    letter-spacing: 3px;
+    line-height: 1.8;
+    word-spacing: 5px;
 }
 .container {
     padding: 20px, 20px, 20px, 40px;
     color: white;
     font-family: 'Nobile', Helvetica, Arial, sans-serif;
     text-shadow: 1px 1px 1px #ccc;
+    letter-spacing: 3px;
+    line-height: 1.8;
+    word-spacing: 5px;
 }
 
 }
 #playDiv {}
-.wordBuildDiv {}
-.singer {}
-.stagefright {}
-@media (min-width: 980px,
-760px,
-460px);
+.singer {
+    opacity: 0.5;
+}
+.stageFright {
+    padding-top: 15px;
+}
