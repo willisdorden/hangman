@@ -42,5 +42,6 @@ p {
 .wordBuildDiv {}
 .singer {}
 .stagefright {}
-.hungimg {}
-@media (min-width: 980px)
+@media (min-width: 980px,
+760px,
+460px);
